@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Charan Teja B S</h1>
+<h1 align="center">Hallo 👋, Ich bin Charan Teja B S</h1>
 
 <p align="center">
   <a href="https://charanteja.co/" target="_blank">
@@ -127,3 +127,4 @@ Kannada, English, Telugu, Hindi, German *(Beginner)*
 ---
 
 <p align="center">✨ Made with 💜 by <strong>Charan Teja B S</strong></p>
+<h2>Vielen Dank für Ihren Besuch</h2>
