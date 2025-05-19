@@ -127,4 +127,4 @@ Kannada, English, Telugu, Hindi, German *(Beginner)*
 ---
 
 <p align="center">✨ Made with 💜 by <strong>Charan Teja B S</strong></p>
-<h2>Vielen Dank für Ihren Besuch</h2>
+<h2 align="center">Vielen Dank für Ihren Besuch</h2>
