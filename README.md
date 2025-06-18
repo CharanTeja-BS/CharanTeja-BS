@@ -19,6 +19,10 @@
 
 🌐 Always learning, building, and exploring new tech frontiers.
 
+- 👨‍💻 Other GitHub Profiles:
+  - [**GitHub Profile 1**](https://github.com/CharanTejaBS-cherrypy)
+  - [**GitHub Profile 2**](https://github.com/CharanTejaBS6/)
+
 ---
 
 ## 🎓 Education
